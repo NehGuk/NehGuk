@@ -1,14 +1,13 @@
 # HenKug
 
 - Front-end development student | School of Technology and Digital Media, Noroff (Norway)
-- MSc in Environmental Stidies | University of Edinburgh (UK)
+- MSc in Environmental Studies | University of Edinburgh (UK)
 - BSc in Journalism and Communication | Federal University of Parana (Brazil)
 
 
 ---
 ### Bio
-After 13 years working as a science journalist, I am now exploring the field of IT as a front-end development student. I live in Oslo, Norway, and hope to be able to contribute in the fields of online privacy, sustainability and the green transition.
-In my free time, you'll most likely find me practicing aikido or drinking mate.
+After 13 years working as a science journalist, I am now exploring the field of IT as a front-end development student. I live in Oslo, Norway, and hope to be able to contribute in the fields of online privacy, sustainability and the green transition. In my free time, you'll most likely find me practicing aikido or drinking mate (yes, the delicious herbal infusion from South America).
 
 ---
 
@@ -21,6 +20,7 @@ In my free time, you'll most likely find me practicing aikido or drinking mate.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" title="Adobe XD" **alt="Adobe XD" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
 
