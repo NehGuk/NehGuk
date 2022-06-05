@@ -1,6 +1,6 @@
 # HenKug
 
-- Front-end development student | School of Technology and Digital Media (Norway)
+- Front-end development student | School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Stidies | University of Edinburgh (UK)
 - BSc in Journalism and Communication | Federal University of Parana (Brazil)
 
