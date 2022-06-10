@@ -34,4 +34,4 @@ After 13 years working as a science journalist, I am now exploring the field of 
 ---
 ### Contact
 - [My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
-- My personal portfolio (under construction)
+- [My personal portfolio](https://nehguk.github.io)
