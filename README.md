@@ -1,4 +1,4 @@
-# HenKug
+# Henri K
 
 - Front-end development student | School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Studies | University of Edinburgh (UK)
