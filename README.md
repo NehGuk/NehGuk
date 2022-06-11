@@ -7,7 +7,9 @@
 
 ---
 ### Bio
-After 13 years working as a science journalist, I am now exploring the field of IT as a front-end development student. I live in Oslo, Norway, and hope to be able to contribute in the fields of online privacy, sustainability and the green transition. In my free time, you'll most likely find me practicing aikido or drinking mate (yes, the delicious herbal infusion from South America).
+For the last 13 years, I’ve been working with science communication. Now, I am exploring the field of IT as a front-end developer. Online privacy, human rights, environmental issues, press freedom... These are some of the topics I’m interested in and would be happy to contribute with.
+
+In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, that delicious herbal infusion from South America. It's great for coding. Cheers!
 
 ---
 
