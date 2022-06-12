@@ -7,7 +7,7 @@
 
 ---
 ### Bio
-For the last 13 years, I’ve been working with science communication. Now, I am exploring the field of IT as a front-end developer. Online privacy, human rights, environmental issues, press freedom... These are some of the topics I’m interested in and would be happy to contribute with.
+For the last 13 years, I’ve been working with science communication. Now, I am exploring the field of IT as a front-end developer. Online privacy, press freedom, human rights, environmental issues, renewable energy... These are some of the topics I’m interested in and would be happy to contribute with.
 
 In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, that delicious herbal infusion from South America. It's great for coding. Cheers!
 
