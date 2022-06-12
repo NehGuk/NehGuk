@@ -35,5 +35,5 @@ In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, th
 
 ---
 ### Contact
-- [My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
+- [My LinkedIn page](https://www.linkedin.com/in/henri-k-78218422b)
 - [My personal portfolio](https://nehguk.github.io)
