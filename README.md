@@ -1,4 +1,4 @@
-# Henri K
+# NehGuk (Henri)
 
 - Front-end development | School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Studies | School of Geosciences, University of Edinburgh (UK)
@@ -7,9 +7,7 @@
 
 ---
 ### Bio
-For the last 13 years, I’ve been working with science communication. Now, I'm exploring the field of IT as a frontend developer. Online privacy, press freedom, human rights, environmental issues and renewable energy are some of the topics I’m interested in and would be happy to contribute with.
-
-In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, that delicious herbal infusion from South America. It's great for coding. Cheers!
+I worked with science communication for 13 years. Now, I'm exploring the field of IT as a frontend developer. Online privacy, press freedom, human rights, environmental issues and renewable energy are some of the topics I’m interested in and would be happy to contribute with. In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, that delicious herbal infusion from South America. It's great for coding. Cheers!
 
 ---
 
