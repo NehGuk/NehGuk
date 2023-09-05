@@ -1,16 +1,10 @@
-# NehGuk (Henri)
+# Henri
 
-- Front-end development | School of Technology and Digital Media, Noroff (Norway)
+- Front-end development | Norwegian School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Studies | School of Geosciences, University of Edinburgh (UK)
-- BSc in Science Journalism and Communication | Federal University of Parana (Brazil)
-
-
----
-### Bio
-I worked with science communication for 13 years. Now, I'm exploring the field of IT as a frontend developer. Online privacy, press freedom, human rights, environmental issues and renewable energy are some of the topics I’m interested in and would be happy to contribute with. In my free time, I like to practice aikido. Also, I drink a lot of mate, yes, that delicious herbal infusion from South America. It's great for coding. Cheers!
+- BSc in Communications & Science Journalism | Federal University of Parana (Brazil)
 
 ---
-
 ### Languages and Tools
 - HTML
 - CSS
