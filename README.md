@@ -1,5 +1,5 @@
-# NehGuk
-_Henri_
+# NehGuk (Henri)
+
 
 - Front-end development | Norwegian School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Studies | School of Geosciences, University of Edinburgh (UK)
