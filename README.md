@@ -1,4 +1,5 @@
-# Henri
+# NehGuk
+_Henri_
 
 - Front-end development | Norwegian School of Technology and Digital Media, Noroff (Norway)
 - MSc in Environmental Studies | School of Geosciences, University of Edinburgh (UK)
