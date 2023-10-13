@@ -1,11 +1,5 @@
-# NehGuk (Henri)
+# NehGuk
 
-
-- Front-end development | Norwegian School of Technology and Digital Media, Noroff (Norway)
-- MSc in Environmental Studies | School of Geosciences, University of Edinburgh (UK)
-- BSc in Communications & Science Journalism | Federal University of Parana (Brazil)
-
----
 ### Languages and Tools
 - HTML
 - CSS
@@ -26,5 +20,10 @@
 
 ---
 ### Contact
-- [My LinkedIn profile](https://no.linkedin.com/in/henri-kugler-78218422b?trk=people-guest_people_search-card)
-- [My portfolio](https://www.nehguk.dev)
+- [Web portfolio](https://www.nehguk.dev)
+- [LinkedIn](https://www.linkedin.com/in/nehguk)
+- [CodeWithMate](https://nehguk.hashnode.dev)
+- [iStock](https://www.istockphoto.com/portfolio/HenriKugler)
+- [PixelFed](https://pixelfed.social/NehGuk)
+- [Mastodon](https://oslo.town/@nehguk)
+  
