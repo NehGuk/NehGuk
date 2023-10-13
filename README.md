@@ -7,9 +7,17 @@
 - Typescript
 - React
 - Bootstrap
+- REST API
+- Postman
 - Git
 - Github
-- VSCode
+- UX/UI
+- Prototyping
+- Design
+- Project management
+- Scrum/Agile
+- Asana
+- WCAG
 
 ---
 ### My Stats
