@@ -9,9 +9,9 @@
 
 ---
 ### About
-- [LinkedIn](https://www.linkedin.com/in/nehguk)
-- [Web](https://www.nehguk.dev)
-- [b&w](https://lightroom.adobe.com/shares/72987061cb5748ca86277fd84a8488f4)
+- [My LinkedIn profile](https://www.linkedin.com/in/nehguk)
+- [My weird web portfolio](https://www.nehguk.dev)
+- [My B&W obsession]([https://adobe.ly/3QdLk0F])
 
 
 
