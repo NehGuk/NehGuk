@@ -1,24 +1,5 @@
 # NehGuk
 
-### Languages and Tools
-- HTML
-- CSS
-- Javascript
-- Typescript
-- React
-- Bootstrap
-- REST API
-- Postman
-- Git
-- Github
-- UX/UI
-- Prototyping
-- Design
-- Project management
-- Scrum/Agile
-- Asana
-- WCAG
-
 ---
 ### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NehGuk&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -27,11 +8,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehGuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Contact
-- [Web portfolio](https://www.nehguk.dev)
+### About
 - [LinkedIn](https://www.linkedin.com/in/nehguk)
-- [CodeWithMate](https://nehguk.hashnode.dev)
-- [iStock](https://www.istockphoto.com/portfolio/HenriKugler)
-- [PixelFed](https://pixelfed.social/NehGuk)
-- [Mastodon](https://oslo.town/@nehguk)
+- [Web](https://www.nehguk.dev)
+- [b&w](https://lightroom.adobe.com/shares/72987061cb5748ca86277fd84a8488f4)
+
+
+
+
   
