@@ -11,7 +11,7 @@
 ### About
 - [My LinkedIn profile](https://www.linkedin.com/in/nehguk)
 - [My weird web portfolio](https://www.nehguk.dev)
-- [My B&W perspectives](https://adobe.ly/3QdLk0F)
+- [My B&W perspectives]([https://www.icloud.com/sharedalbum/#B1g59UlCqGqOooE)
 
 
 
