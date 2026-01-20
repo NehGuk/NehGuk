@@ -1,4 +1,4 @@
-# NehGuk
+# Henri
 
 ---
 ### My Stats
@@ -6,11 +6,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehGuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### About
-- [My LinkedIn profile](https://www.linkedin.com/in/nehguk)
-- [My web portfolio](https://www.nehguk.dev)
 
 
 
