@@ -1,7 +1,7 @@
 # NehGuk (Henri)
 
 ---
-Hey there!
+Hi there!
 
 
 
